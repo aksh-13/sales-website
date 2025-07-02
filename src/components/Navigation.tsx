@@ -59,6 +59,7 @@ const Navigation: React.FC = () => {
               className="flex items-center cursor-pointer"
             >
               <img src="/NorthStar.png" alt="NorthStar Websites Logo" className="h-10 w-auto mr-2" />
+              <span className="text-2xl font-bold text-gold">NorthStar Websites</span>
             </button>
           </motion.div>
 

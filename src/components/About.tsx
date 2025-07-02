@@ -4,8 +4,8 @@ import { Award, Users, Clock, Target, CheckCircle, Star } from 'lucide-react';
 
 const About: React.FC = () => {
   const stats = [
-    { icon: Award, value: "50+", label: "Projects Completed" },
-    { icon: Users, value: "30+", label: "Happy Clients" },
+    { icon: Award, value: "10+", label: "Projects Completed" },
+    { icon: Users, value: "5+", label: "Happy Clients" },
     { icon: Clock, value: "3+", label: "Years Experience" },
     { icon: Target, value: "100%", label: "Client Satisfaction" }
   ];
