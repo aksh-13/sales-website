@@ -53,7 +53,7 @@ const About: React.FC = () => {
               className="inline-flex items-center px-4 py-2 rounded-full bg-gold/10 border border-gold/20 text-gold text-sm font-medium mb-6"
             >
               <Award size={16} className="mr-2" />
-              About BuildByAK
+              About NorthStar Websites
             </motion.div>
 
             <h2 className="text-4xl md:text-5xl font-bold text-white mb-6">
@@ -61,7 +61,7 @@ const About: React.FC = () => {
             </h2>
 
             <p className="text-xl text-gray-300 mb-8 leading-relaxed">
-              At BuildByAK, we believe that every business deserves a website that not only looks stunning but also performs exceptionally. Our passion for web development drives us to create bespoke solutions that elevate your brand and drive real results.
+              At NorthStar Websites, we believe that every business deserves a website that not only looks stunning but also performs exceptionally. Our passion for web development drives us to create bespoke solutions that elevate your brand and drive real results.
             </p>
 
             <p className="text-lg text-gray-400 mb-8 leading-relaxed">
@@ -130,7 +130,7 @@ const About: React.FC = () => {
               <div className="relative rounded-2xl overflow-hidden">
                 <img
                   src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2015&q=80"
-                  alt="BuildByAK Team"
+                  alt="NorthStar Websites Team"
                   className="w-full h-80 object-cover"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>

@@ -55,7 +55,7 @@ const Footer: React.FC = () => {
                 transition={{ duration: 0.6 }}
                 viewport={{ once: true }}
               >
-                <h3 className="text-2xl font-bold text-gold mb-4">BuildByAK</h3>
+                <h3 className="text-2xl font-bold text-gold mb-4">NorthStar Websites</h3>
                 <p className="text-gray-300 mb-6 leading-relaxed">
                   Crafting exceptional digital experiences that elevate your brand and drive business growth. 
                   From concept to launch, we're here to bring your vision to life.
@@ -187,7 +187,7 @@ const Footer: React.FC = () => {
         >
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="flex items-center text-gray-400">
-              <span>© 2024 BuildByAK. Made with</span>
+              <span>© 2024 NorthStar Websites. Made with</span>
               <Heart size={16} className="mx-1 text-red-500" />
               <span>for exceptional experiences.</span>
             </div>

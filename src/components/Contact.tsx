@@ -40,7 +40,7 @@ const Contact: React.FC = () => {
     {
       icon: Mail,
       title: "Email",
-      value: "buildbyak@gmail.com",
+      value: "northstarwebsites416@gmail.com",
       description: "Send us an email anytime"
     },
     {

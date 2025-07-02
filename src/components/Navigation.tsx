@@ -56,9 +56,9 @@ const Navigation: React.FC = () => {
           >
             <button 
               onClick={() => scrollToSection('#home')}
-              className="text-2xl font-bold text-gold cursor-pointer"
+              className="flex items-center cursor-pointer"
             >
-              BuildByAK
+              <img src="/NorthStar.png" alt="NorthStar Websites Logo" className="h-10 w-auto mr-2" />
             </button>
           </motion.div>
 
