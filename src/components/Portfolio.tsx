@@ -17,6 +17,16 @@ const Portfolio: React.FC = () => {
 
   const projects = [
     {
+      id: 99,
+      title: "SAUKA Events – Private Event Mixology & Workshops",
+      category: "portfolio",
+      description: "A modern, immersive website for SAUKA Events, offering private event mixology, spirit tastings, and mixology workshops. Built for seamless booking and showcasing unique cocktail experiences.",
+      image: "/SAUKAEvents.png", // Placeholder image
+      technologies: ["Next.js", "React", "Tailwind CSS"],
+      liveUrl: "https://website-sand-alpha-43.vercel.app/",
+      githubUrl: "#"
+    },
+    {
       id: 0,
       title: "Personal Portfolio – Akshaj Shrotri",
       category: "portfolio",
@@ -45,7 +55,7 @@ const Portfolio: React.FC = () => {
       technologies: ["React", "TypeScript", "OpenAI API", "Mapbox"],
       liveUrl: "https://spurhacks-final-akshajs-projects-2701b487.vercel.app/",
       githubUrl: "#"
-    }
+    },
   ];
 
   const filteredProjects = selectedCategory === 'all' 
